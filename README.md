@@ -1,9 +1,8 @@
 # PENI_ILHAMI_09011182328101_Tugas6-Sistem-Operasi
-# PENI-ILHAMI_09011182328101_tugas5-Sistem-Operasi.
 
 <div align="center">
 
-## Praktikum 5 Job Control
+## Praktikum 6 
 
 *Dosen Pengampu:*\
 Ahmad Heryanto, M. T.\
