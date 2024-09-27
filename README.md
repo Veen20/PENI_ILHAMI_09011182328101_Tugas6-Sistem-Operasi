@@ -38,3 +38,8 @@ KELAS       : SK3B
 
 ### TUGAS
 
+Berikut adalah panduan ringkas untuk menginstal dan mengonfigurasi SSH di Ubuntu 22.04:
+
+Langkah 1: Perbarui Sistem
+Sebelum menginstal SSH, pastikan semua paket sistem diperbarui dengan menjalankan:
+
