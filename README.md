@@ -43,3 +43,19 @@ Berikut adalah panduan ringkas untuk menginstal dan mengonfigurasi SSH di Ubuntu
 Langkah 1: Perbarui Sistem
 Sebelum menginstal SSH, pastikan semua paket sistem diperbarui dengan menjalankan:
 
+Langkah 2: Instal OpenSSH
+Instal server OpenSSH dengan perintah:
+
+Langkah 3: Mulai dan Aktifkan SSH
+Mulai layanan SSH dan aktifkan agar otomatis berjalan saat booting:
+
+Verifikasi apakah SSH berjalan:
+
+Langkah 4: Konfigurasi Firewall
+Cek apakah SSH diizinkan lewat firewall:
+
+Jika SSH belum diizinkan, gunakan perintah ini untuk mengizinkan:
+
+Langkah 5: Sambungkan ke Server
+Untuk menghubungkan secara jarak jauh, gunakan alamat IP atau nama domain server:
+
