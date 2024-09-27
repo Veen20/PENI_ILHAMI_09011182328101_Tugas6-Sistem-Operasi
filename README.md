@@ -69,4 +69,4 @@ Jika SSH belum diizinkan, gunakan perintah ini untuk mengizinkan:
 Langkah 5: Sambungkan ke Server
 Untuk menghubungkan secara jarak jauh, gunakan alamat IP atau nama domain server:
 
-<img width="367" alt="image" src="https://github.com/user-attachments/assets/83277412-2593-475b-9606-692da8db7b71">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/83277412-2593-475b-9606-692da8db7b71">
